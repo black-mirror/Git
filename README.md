@@ -8,7 +8,7 @@
 
 	点击右上角+号
 
-![](images\1.jpg)
+![](images/1.jpg)
 
 3、安装Git，启动git-bash.exe
 
